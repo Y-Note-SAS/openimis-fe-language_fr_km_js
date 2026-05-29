@@ -4339,5 +4339,7 @@
     "tools.ExtractsPage.ResultDialog.totalKmf": "Total (KMF)",
     "tools.ExtractsPage.importBtn": "Import",
     "tools.ExtractsPage.ResultDialog.totalTransaction": "Nombre de transaction traitées",
-    "tools.ExtractsPage.ResultDialog.chfID": "Numéro d'assuré"
+    "tools.ExtractsPage.ResultDialog.chfID": "Numéro d'assuré",
+    "policy.printRectoSelected": "Imprimer la carte AMG recto",
+    "policy.printVersoSelected": "Imprimer la carte AMG verso"
 }
