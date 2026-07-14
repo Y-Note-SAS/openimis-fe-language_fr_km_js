@@ -4874,5 +4874,11 @@
     "invoice.familyInvoicesPayments.invoicePaymentOrigin": "Origine du paiement",
     "invoice.familyInvoicesPayments.invoicePaymentCodeReceipt": "Numéro de reçu",
     "invoice.familyInvoicesPayments.invoicePaymentPayerRef": "Référence du payeur",
-    "invoiceEvent.dateCreatedAt": "Créé le"
+    "invoiceEvent.dateCreatedAt": "Créé le",
+    "insuree.affiliationStatus": "Statut d'affiliation",
+    "insuree.affiliationStatus.null": "Tous les statuts",
+    "insuree.affiliationStatus.preaffiliated": "Pré-affilié",
+    "insuree.affiliationStatus.affiliated": "Affilié",
+    "insuree.affiliationStatus.insured": "Assuré",
+    "insuree.affiliationStatus.suspended": "Assuré suspendu"
 }
