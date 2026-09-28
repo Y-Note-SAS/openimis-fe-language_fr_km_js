@@ -4880,5 +4880,6 @@
     "insuree.affiliationStatus.preaffiliated": "Pré-affilié",
     "insuree.affiliationStatus.affiliated": "Affilié",
     "insuree.affiliationStatus.insured": "Assuré",
-    "insuree.affiliationStatus.suspended": "Assuré suspendu"
+    "insuree.affiliationStatus.suspended": "Assuré suspendu",
+    "invoice.action.openInNewTab.tooltip": "Ouvrir dans un nouvel onglet"
 }
